@@ -3,189 +3,298 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-          <div class="wrapper">
-  <div class="table_title">Definitions</div>
-  <div class="table_wrap">
-    <div class="table_header">
-      <div class="item_wrap">
-            <div class="item item_term">Term</div>
-            <div class="vertical_line"></div>
-            <div class="item item_definition">Definition</div>
-      </div>
-    </div>
- 
-  
-    <div class="table_body">
-         <div class="item_container">
-          <div class="item_left">
-            <div class="item item_term"><p>Programmatic</p></div>
-          </div>
-          <div class="item_right">
-            <div class="item item_definition "><p>Buying media based on targeting audiences and not specific sites. It is automated and performance can be adjusted in real time.</p> </div>
-          </div>
-         </div>
-    </div>
-  </div>
-  
-   <div class="table_wrap">
-    <div class="table_header">
-      <div class="item_wrap">
-        <div class="item item_term">Dimension</div>
-        <div class="vertical_line"></div>
-        <div class="item item_definition">Definition</div>
-      </div>
-    </div>
- 
-  
-    <div class="table_body">
-        <div class="item_container">
-          <div class="item_left">
-            <div class="item item_term"><p>DV360</p></div>
-          </div>
-          <div class="item_right">
-            <div class="item item_definition"><p>Google's Programmatic Platform/DSP</p> </div>
-          </div>
-        </div>
-        <div class="item_container">
-          <div class="item_left">
-            <div class="item item_term"><p>TTD (The Trade Desk)</p></div>
-          </div>
-          <div class="item_right">
-            <div class="item item_definition"><p>DSP - Demand Side Platform</p> </div>
+      <div class="wrapper">
+        <div class="table_title">Definitions</div>
+        <div class="table_wrap">
+          <div class="table_header">
+            <div class="item_wrap">
+              <div class="item item_term">Term</div>
+              <div class="vertical_line"></div>
+              <div class="item item_definition">Definition</div>
             </div>
+          </div>
+
+          <div class="table_body">
+            <div class="item_container">
+              <div class="item_left">
+                <div class="item item_term">
+                  <p>Lobortis feugiat</p>
+                </div>
+              </div>
+              <div class="item_right">
+                <div class="item item_definition ">
+                  <p>
+                    BLorem ipsum dolor sit amet, consectetur adipiscing elit,
+                    sed do eiusmod tempor incididunt ut labore et dolore magna
+                    aliqua. ance can be adjusted in real time.
+                  </p>{" "}
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
-        <div class="item_container">
-          <div class="item_left">
-            <div class="item item_term"><p>Teads</p></div>
+
+        <div class="table_wrap">
+          <div class="table_header">
+            <div class="item_wrap">
+              <div class="item item_term">Dimension</div>
+              <div class="vertical_line"></div>
+              <div class="item item_definition">Definition</div>
+            </div>
           </div>
-          <div class="item_right">
-            <div class="item item_definition"><p>Programmatic buying platform that specializes in Video</p> </div>
+
+          <div class="table_body">
+            <div class="item_container">
+              <div class="item_left">
+                <div class="item item_term">
+                  <p>Lorem Lorem</p>
+                </div>
+              </div>
+              <div class="item_right">
+                <div class="item item_definition">
+                  <p>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="item_container">
+              <div class="item_left">
+                <div class="item item_term">
+                  <p>Dipsum Dipsum</p>
+                </div>
+              </div>
+              <div class="item_right">
+                <div class="item item_definition">
+                  <p>Lorem ipsum dolor sit amet.</p>
+                </div>
+              </div>
+            </div>
+            <div class="item_container">
+              <div class="item_left">
+                <div class="item item_term">
+                  <p>Dolor Dolor</p>
+                </div>
+              </div>
+              <div class="item_right">
+                <div class="item item_definition">
+                  <p>
+                    Turpis nunc eget lorem dolor sed viverra ipsum nunc. At erat
+                    pellentesque adipiscing commodo.{" "}
+                  </p>{" "}
+                </div>
+              </div>
+            </div>
+            <div class="item_container">
+              <div class="item_left">
+                <div class="item item_term">
+                  <p>Sit Ame dolr.</p>
+                </div>
+              </div>
+              <div class="item_right">
+                <div class="item item_definition ">
+                  <p>
+                    Tortor condimentum lacinia quis vel eros.Ac tincidunt vitae
+                    semper quis lectus nulla at.{" "}
+                  </p>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
-        <div class="item_container">
-          <div class="item_left">
-          <div class="item item_term"><p>YouTube</p></div>
+
+        <div class="table_wrap">
+          <div class="table_header">
+            <div class="item_wrap">
+              <div class="item item_term">Metric</div>
+              <div class="vertical_line"></div>
+              <div class="item item_definition">Definition</div>
+            </div>
           </div>
-          <div class="item_right">
-          <div class="item item_definition "><p>Video sharing service where users can watch, like, share, comment and upload their own videos.</p> </div>
+
+          <div class="table_body">
+            <div class="item_container">
+              <div class="item_left">
+                <div class="item item_term">
+                  <p>Tortor at risus</p>
+                </div>
+              </div>
+              <div class="item_right">
+                <div class="item item_definition">
+                  <p>
+                    Nisl nisi scelerisque eu ultrices vitae. Tortor at risus
+                    viverra adipiscing at.Morbi tincidunt augue interdum velit
+                    euismod in pellentesque massa placerat.
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div class="item_container">
+              <div class="item_left">
+                <div class="item item_term">
+                  <p>Tortor</p>
+                </div>
+              </div>
+              <div class="item_right">
+                <div class="item item_definition">
+                  <p>
+                    Id volutpat lacus laoreet non curabitur gravida arcu ac
+                    tortor. Lobortis feugiat vivamus at augue eget.
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div class="item_container">
+              <div class="item_left">
+                <div class="item item_term">
+                  <p>Nisl nisi</p>
+                </div>
+              </div>
+              <div class="item_right">
+                <div class="item item_definition">
+                  <p>
+                    Morbi tincidunt augue interdum velit euismod in pellentesque
+                    massa placerat. Quam vulputate dignissim suspendisse in est
+                    ante. Dui nunc mattis enim ut.
+                  </p>{" "}
+                </div>
+              </div>
+            </div>
+
+            <div class="item_container">
+              <div class="item_left">
+                <div class="item item_term">
+                  <p>Condimentum </p>
+                </div>
+              </div>
+              <div class="item_right">
+                <div class="item item_definition">
+                  <p>
+                    Pulvinar etiam non quam lacus suspendisse. Sagittis nisl
+                    rhoncus mattis rhoncus urna.
+                  </p>{" "}
+                </div>
+              </div>
+            </div>
+
+            <div class="item_container">
+              <div class="item_left">
+                <div class="item item_term">
+                  <p>Vulputate dignissim</p>
+                </div>
+              </div>
+              <div class="item_right">
+                <div class="item item_definition">
+                  <p>
+                    Habitasse platea dictumst vestibulum rhoncus est
+                    pellentesque elit ullamcorper.
+                  </p>{" "}
+                </div>
+              </div>
+            </div>
+
+            <div class="item_container">
+              <div class="item_left">
+                <div class="item item_term">
+                  <p>Dui accumsan sit amet nulla </p>
+                </div>
+              </div>
+              <div class="item_right">
+                <div class="item item_definition">
+                  <p>
+                    Dignissim sodales ut eu sem. Mauris pharetra et ultrices
+                    neque ornare aenean euismod elementum.
+                  </p>{" "}
+                </div>
+              </div>
+            </div>
+
+            <div class="item_container">
+              <div class="item_left">
+                <div class="item item_term">
+                  <p>Accumsan tortor </p>
+                </div>
+              </div>
+              <div class="item_right">
+                <div class="item item_definition">
+                  <p>
+                    Sit amet nulla facilisi morbi tempus iaculis urna. Vitae
+                    congue eu consequat ac felis. Sed turpis tincidunt id
+                    aliquet risus feugiat.
+                  </p>{" "}
+                </div>
+              </div>
+            </div>
+
+            <div class="item_container">
+              <div class="item_left">
+                <div class="item item_term">
+                  <p>Purus in mollis nunc sed id semper risus. </p>
+                </div>
+              </div>
+              <div class="item_right">
+                <div class="item item_definition">
+                  <p>
+                    Mollis aliquam ut porttitor leo a diam sollicitudin tempor
+                    id. Velit ut tortor pretium viverra suspendisse.
+                  </p>{" "}
+                </div>
+              </div>
+            </div>
+
+            <div class="item_container">
+              <div class="item_left">
+                <div class="item item_term">
+                  <p>Non arcu risus quis varius quam. </p>
+                </div>
+              </div>
+              <div class="item_right">
+                <div class="item item_definition">
+                  <p>
+                    Lobortis scelerisque fermentum dui faucibus in ornare.Urna
+                    nec tincidunt praesent semper feugiat. Mauris augue neque
+                    gravida in fermentum.
+                  </p>{" "}
+                </div>
+              </div>
+            </div>
+
+            <div class="item_container">
+              <div class="item_left">
+                <div class="item item_term">
+                  <p>Viverra accumsan</p>
+                </div>
+              </div>
+              <div class="item_right">
+                <div class="item item_definition">
+                  <p>
+                    Elit eget gravida cum sociis. Massa eget egestas purus
+                    viverra accumsan in nisl nisi.
+                  </p>{" "}
+                </div>
+              </div>
+            </div>
+
+            <div class="item_container">
+              <div class="item_left">
+                <div class="item item_term">
+                  <p>Rutrum tellus</p>
+                </div>
+              </div>
+              <div class="item_right">
+                <div class="item item_definition">
+                  <p>
+                    Eget magna fermentum iaculis eu non diam. Proin sed libero
+                    enim sed faucibus turpis in eu.
+                  </p>{" "}
+                </div>
+              </div>
+            </div>
           </div>
         </div>
-    </div>
-  </div>
-  
-    <div class="table_wrap">
-    <div class="table_header">
-      <div class="item_wrap">
-        <div class="item item_term">Metric</div>
-        <div class="vertical_line"></div>
-        <div class="item item_definition">Definition</div>
       </div>
-    </div>
- 
-  
-    <div class="table_body">
-       <div class="item_container">
-         <div class="item_left">
-          <div class="item item_term"><p>Impressions</p></div>
-         </div>
-         <div class="item_right">
-          <div class="item item_definition"><p>The number of times an ad was viewed when it enters a person's screen. This is different than Reach, because the same user can see an ad multiple times.</p> </div>
-          </div>
-       </div>
-       
-        <div class="item_container">
-          <div class="item_left">
-            <div class="item item_term"><p>Click</p></div>
-          </div>
-          <div class="item_right">
-            <div class="item item_definition"><p>	When a user clicks on an ad and is redirected to the destination URL of an ad.</p> </div>
-          </div>
-       </div>
-       
-        <div class="item_container">
-          <div class="item_left">
-            <div class="item item_term"><p>Click Through Rate (CTR)</p></div>
-          </div>
-          <div class="item_right">
-            <div class="item item_definition"><p>CTR is the percentage of total people visiting a web page who access a link to a particular advertisement, calculated as clicks divided by impressions (100 clicks from 1000 impressions equals a 10% CTR).</p> </div>
-          </div>
-       </div>
-       
-        <div class="item_container">
-          <div class="item_left">
-          <div class="item item_term"><p>Cost Per Click (CPC)</p></div>
-          </div>
-          <div class="item_right">
-          <div class="item item_definition"><p>Total cost divided by clicks ($100 for 50 clicks equals $2 CPC).</p> </div>
-          </div>
-       </div>
-       
-        <div class="item_container">
-          <div class="item_left">
-          <div class="item item_term"><p>Cost Per Completed View (CPCV)</p></div>
-          </div>
-          <div class="item_right">
-          <div class="item item_definition"><p>Cost paid every time a video ad runs through to completion.</p> </div>
-          </div>
-       </div>
-       
-        <div class="item_container">
-          <div class="item_left">
-            <div class="item item_term"><p>Cost Per Thousand Impressions (CPM)eted View (CPCV)</p></div>
-          </div>
-          <div class="item_right">
-            <div class="item item_definition"><p>The average cost per thousand impressions, calculated as the total cost/thousand impressions.</p> </div>
-          </div>
-       </div>
-       
-        <div class="item_container">
-          <div class="item_left">
-            <div class="item item_term"><p>Cost Per View (CPV)</p></div>
-          </div>
-          <div class="item_right">
-            <div class="item item_definition"><p>Pricing model in which advertisers are charged only when users watch the video. The Ad Exchange does not support CPV.</p> </div>
-          </div>
-       </div>
-       
-         <div class="item_container">
-          <div class="item_left">
-            <div class="item item_term"><p>Video Completion Rate (VCR)</p></div>
-          </div>
-          <div class="item_right">
-            <div class="item item_definition"><p>Percentage of times the video played to the end. Calculated as: video completes / video starts.</p> </div>
-          </div>
-       </div>
-       
-        <div class="item_container">
-          <div class="item_left">
-            <div class="item item_term"><p>View Through Rate (VTR)</p></div>
-          </div>
-          <div class="item_right">
-            <div class="item item_definition"><p>The number of completed views of an ad over the number of initial impressions. VTR = Completed views (user did not skip/pass by) / Impressions (ad rendered).</p> </div>
-          </div>
-       </div>
-       
-        <div class="item_container">
-          <div class="item_left">
-            <div class="item item_term"><p>Reach</p></div>
-          </div>
-          <div class="item_right">
-            <div class="item item_definition"><p>The number of unique users within an audience universe the ad was shown to.</p> </div>
-          </div>
-       </div>
-       
-        <div class="item_container">
-          <div class="item_left">
-            <div class="item item_term"><p>Frequency</p></div>
-          </div>
-          <div class="item_right">
-            <div class="item item_definition"><p>The average number of times individuals are exposed to the advertising message. </p> </div>
-          </div>
-       </div>
-    </div>
-  </div>
-  
-</div>
     </div>
   );
 }
